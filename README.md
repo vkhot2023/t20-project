@@ -76,7 +76,14 @@ For Detail Project:https://github.com/vkhot2023/t20-project/blob/main/t20project
 
 # Data Analysis:
 
+Final 15 Player Squad
 
+https://github.com/vkhot2023/t20-project/blob/main/data%20analysis.docx
 
+## Microsoft PowerBI Link:
 
+https://github.com/vkhot2023/t20-project/blob/main/t20project.pbix
 
+## Project completion
+
+project successfully completed by VISHAL JAGANNATH KHOT
