@@ -30,9 +30,9 @@ dim_players2:219 records  name,	team,	battingStyle,	bowlingStyle,	playingRole,	d
 
 fact_batting_summary:699 records  match,	teamInnings,	battingPos,	batsmanName,	runs,	balls,	4s,	6s,	SR,	out/not_out,	match_id
 
-Data Process according to require condition. Data from Super12 Matches Considers for Model Development
-
 fact_bowling_summary:500 records  match,	bowlingTeam,	bowlerName,	overs	maiden,	runs,	wickets	economy,	0s,	4s,	6s,	wides,	noBalls,	match_id
+
+Data Process according to require condition. Data from Super12 Matches Considers for Model Development
 
 ## DashBoard Development
 
