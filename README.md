@@ -1,29 +1,27 @@
 # T20-project
 
-Recently t20 world cup held in Australia which won by team England. In this Project, We analysing data to give 15 best possible players from tournament to make best possible Team in Tournament
+Recently the T20 world cup was held in Australia which was won by Team England. In this Project, We analyzed T20 world cup data to give 15 best possible players from the Tournament to make the best possible Team in the Tournament.
 
-# Dataset
+## Dataset
 
-Link:https://github.com/vkhot2023/t20-project/tree/main/t20_csv_files%20original
+Raw Dataset:https://github.com/vkhot2023/t20-project/tree/main/t20_csv_files%20original
 
-# Development Process
-In this project, we are carrying following steps:
+## Development Process
+We are functioning following 4 steps to complete this project:
 
-1 Project Statement
-
-2 Data Exploration and Processing
-
-3 DashBoard and Model Generation
-
-4 Data Analysis and Insights
+* Project statement
+* Data Exploration
+* Dashboard Development
+* Data Analysis
 
 ## Project statement
 
 Link:https://github.com/vkhot2023/t20-project/blob/main/project%20statement.docx
 
-## Data Exploration and Processing
+## Data Exploration 
 
 Client provide row data Folder with 5 Excel Sheets:
+
 dim_match_summary:45 records  team1,	  team2,	  winner,	  margin,	  ground,	  matchDate,	  match_id
 
 dim_players:219 records name,	team,	image,	battingStyle,	bowlingStyle,	playingRole,	description
@@ -36,9 +34,9 @@ Data Process according to require condition. Data from Super12 Matches Considers
 
 fact_bowling_summary:500 records  match,	bowlingTeam,	bowlerName,	overs	maiden,	runs,	wickets	economy,	0s,	4s,	6s,	wides,	noBalls,	match_id
 
-## DashBoard and Model Generation
+## DashBoard Development
 
-Data parsed in Microsoft PowerBI for Model development. Model developes in such way that each data point has data consistency and relationship with respect to selected data point to provide User Required data insights. we developed User friendly Dynamic Dashboard using Microsoft PowerBI tool to check various parameters.
+Data parsed in Microsoft PowerBI for Model development. The model develops in such a way that each data point has data consistency,and data relationship remains intact. We developed User-friendly Dynamic Dashboard using the Microsoft PowerBI tool to check various parameters.
 
 Final 15 Players Dashboard Screenshot:
 
@@ -79,6 +77,8 @@ For Detail Project:https://github.com/vkhot2023/t20-project/blob/main/t20project
 Final 15 Player Squad
 
 https://github.com/vkhot2023/t20-project/blob/main/data%20analysis.docx
+
+Above Document will provide detail analysis of each player and his selection process.
 
 ## Microsoft PowerBI Link:
 
