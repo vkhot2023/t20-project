@@ -40,35 +40,35 @@ Data parsed in Microsoft PowerBI for Model development. The model develops in su
 
 Final 15 Players Dashboard Screenshot:
 
-<img src="https://user-images.githubusercontent.com/115641570/224487057-22c7f525-7eae-429e-9b37-c230d815fbfe.PNG" height="400" width="800" />
+![n8](https://user-images.githubusercontent.com/115641570/228435660-e726039b-f8f8-47c4-94fc-47b80f549a27.PNG)
 
 Opener Screenshot:
 
-<img src="https://user-images.githubusercontent.com/115641570/224487246-ffec4210-fd7c-4ba0-ad68-82f592fa6397.PNG" height="400" width="800" />
+![n1](https://user-images.githubusercontent.com/115641570/228433651-0cb65a06-9cd0-4c70-a377-151a6bb097bf.PNG)
 
 Middle Order Batsmen Screenshot:
 
-<img src="https://user-images.githubusercontent.com/115641570/224487379-eb9c726d-6bb6-40f8-92c6-8249f76c05a1.PNG" height="400" width="800" />
+![n2](https://user-images.githubusercontent.com/115641570/228438261-2f0372da-d975-4320-985c-7a9f76ab97a3.PNG)
 
 WicketKeeper Screenshot:
 
-<img src="https://user-images.githubusercontent.com/115641570/224487449-2c5880f5-0668-4bad-910f-9233f0160147.PNG" height="400" width="800" />
+![n3](https://user-images.githubusercontent.com/115641570/228434107-db53ae40-b30b-4ebe-9236-22e1a8fbbd24.PNG)
 
 Finisher Screenshot:
 
-<img src="https://user-images.githubusercontent.com/115641570/224487487-9aa8eeee-949c-4793-b773-6987ffc82f92.PNG" height="400" width="800" />
+![n4](https://user-images.githubusercontent.com/115641570/228434448-cf9f844f-63c0-4faa-83e9-4bce580316b3.PNG)
 
 All Rounder Screenshot:
 
-<img src="https://user-images.githubusercontent.com/115641570/224487579-6bab3416-e454-466a-8845-63ceaa519678.PNG" height="400" width="800" />
+![n5](https://user-images.githubusercontent.com/115641570/228435402-f5a151da-5416-42d3-aa2f-da2ffcead408.PNG)
 
 Spinner Screenshot:
 
-<img src="https://user-images.githubusercontent.com/115641570/224487839-d51e1a1a-d82b-4d2c-aa24-4b76d3cc1133.PNG" height="400" width="800" />
+![n6](https://user-images.githubusercontent.com/115641570/228434678-a8155bb9-8be1-4387-b859-3f8e08cfa67d.PNG)
 
 Fast Bowler Screenshot:
 
-<img src="https://user-images.githubusercontent.com/115641570/224487916-e0492782-366a-49e7-a276-ebc38b855097.PNG" height="400" width="800" />
+![n7](https://user-images.githubusercontent.com/115641570/228434789-ac6da9c6-9f17-434e-85cd-f8908202b955.PNG)
 
 For Detail Project:https://github.com/vkhot2023/t20-project/blob/main/t20project.pbix
 
